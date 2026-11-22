@@ -1,0 +1,29 @@
+COMO ABRIR O SISTEMA (LEIA ANTES DE TUDO)
+=========================================
+
+Este projeto usa React e NAO funciona abrindo o arquivo index.html
+com dois cliques (isso mostra tela branca). Isso e normal: uma
+aplicacao React precisa de um servidor para funcionar.
+
+PARA ABRIR (Windows):
+
+  1. Instale o Node.js (se ainda nao tiver): https://nodejs.org
+  2. De DOIS CLIQUES no arquivo:  iniciar.bat
+  3. AGUARDE alguns segundos. O navegador abre SOZINHO em
+     http://localhost:4000
+
+IMPORTANTE:
+  - NAO digite nada. NAO existe comando "o" nem "open".
+    O navegador abre automaticamente, voce nao precisa fazer nada.
+  - O iniciar.bat limpa sozinho qualquer processo antigo na porta
+    4000, entao pode clicar nele quantas vezes quiser sem erro.
+  - Deixe a janela "UniMatricula - servidor" aberta enquanto usa.
+    Para parar, feche essa janela.
+
+-----------------------------------------------------------
+ACESSOS DE DEMONSTRACAO (basta clicar no botao na tela de login)
+-----------------------------------------------------------
+Instituicao:  admin@unimatricula.edu   senha: admin123
+Aluno:        laura@aluno.edu          senha: 123456
+              joao@aluno.edu           senha: 123456
+              maria@aluno.edu          senha: 123456
